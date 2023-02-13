@@ -166,6 +166,8 @@ section{
     height: 50%;
 }
 h1{
+    display: flex;
+    justify-content: center;
     background-color:rgb(32, 39, 77);
     color: aliceblue;
     font-size: sans-serif;
