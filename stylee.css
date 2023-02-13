@@ -44,6 +44,7 @@ img{
 
 #search {
     /*background-color: white;*/
+    display: none;
     
     cursor: pointer;
     padding: 5px;
