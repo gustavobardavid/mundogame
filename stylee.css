@@ -268,7 +268,11 @@ body {
   }
 
 footer {
-    display: flex;
+     display: flex;
+    background-color: #0e1b2c;
+    color: #f4f4f4;
+    text-align: center;
+    flex-direction: column-reverse;
 }
    
   
