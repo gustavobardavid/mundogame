@@ -270,7 +270,7 @@ body {
 footer {
      display: flex;
     background-color: black;
-    color: #f4f4f4;
+    color: white;
     text-align: center;
     flex-direction: column-reverse;
     padding: 100px;
