@@ -44,7 +44,7 @@ img{
 
 #search {
     /*background-color: white;*/
-    display: none;
+    display: flex;
     
     cursor: pointer;
     padding: 5px;
@@ -54,7 +54,6 @@ img{
 
 #burguer {
     background-color: black
-    
     cursor: pointer;
     padding: 5px;
     
