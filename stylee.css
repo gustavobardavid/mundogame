@@ -275,6 +275,8 @@ footer {
     text-align: center;
     flex-direction: column-reverse;
     padding: 100px;
+    width: auto;
+    height: auto;
 }
    
   
