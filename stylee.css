@@ -264,6 +264,10 @@ body {
   a {
     color: #000;
   }
+
+footer {
+    display: flex;
+}
    
   
   
