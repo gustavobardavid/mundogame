@@ -33,6 +33,7 @@ img{
     cursor: pointer;
     background-color: #0e1b2c;
     color: #f4f4f4;
+    flex-direction: row-reverse;
    
     
     
